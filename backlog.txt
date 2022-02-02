@@ -6,3 +6,4 @@ My backlog
 1.5 As a user I want to configure view of my system
 1.6 As an administrator i want to change this
 1.7 as a user I want to
+1,8 as  a user
